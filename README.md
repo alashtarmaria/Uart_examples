@@ -1,8 +1,8 @@
  * Project name:
-     UARTA (Usage of UART libraries)
+    -  UARTA (Usage of UART libraries)
    
  * Test configuration:
-     MCU:             P33EP512MU810
+     - MCU:             P33EP512MU810
      Dev.Board:       EasyPIC Fusion v7 - ac:UARTA
      Oscillator:      XT-PLL, 140.0000MHz
      Ext. Modules:    None.
